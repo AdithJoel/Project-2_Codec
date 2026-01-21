@@ -1,0 +1,7 @@
+# Indicators of Compromise from Honeypot
+# Generated: 2026-01-21T11:21:25.095621
+
+## Malicious IPs
+127.0.0.1
+
+## Attempted Credentials

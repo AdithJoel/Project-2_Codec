@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-01-21T11:20:18.689300",
+    "ip": "127.0.0.1",
+    "port": 59579,
+    "method": "GET",
+    "path": "/admin",
+    "user_agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462",
+      "Host": "localhost:8080",
+      "Connection": "Keep-Alive"
+    },
+    "full_request": "GET /admin HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462\r\nHost: localhost:8080\r\nConnection: Keep-Alive\r\n\r\n"
+  }
+]

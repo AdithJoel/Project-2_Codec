@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-01-21T11:20:04.155402",
+    "ip": "127.0.0.1",
+    "port": 62931,
+    "type": "connection",
+    "client_banner": "\u0003",
+    "data": "\u0003"
+  }
+]
